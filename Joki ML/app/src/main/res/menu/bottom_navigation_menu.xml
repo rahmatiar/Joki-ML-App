@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_discovery"
+        android:icon="@drawable/ic_house"
+        android:title="Beranda">
+    </item>
+
+    <item
+        android:id="@+id/ic_game"
+        android:icon="@drawable/ic_game"
+        android:title="Game">
+    </item>
+
+    <item
+        android:id="@+id/ic_profil"
+        android:icon="@drawable/ic_profil"
+        android:title="Profil">
+    </item>
+
+</menu>

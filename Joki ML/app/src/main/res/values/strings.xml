@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Joki ML App</string>
+
+    <string-array name="list_joki">
+        <item>Bronze-Silver</item>
+        <item>Silver-Gold</item>
+        <item>Gold-Platinum</item>
+        <item>Platinum-Diamond</item>
+        <item>Diamond-Conqueror</item>
+    </string-array>
+
+    <string-array name="list_layanan">
+        <item>0-1K MMR</item>
+        <item>1K-2K MMR</item>
+        <item>2K-3K MMR</item>
+        <item>3K-4K MMR</item>
+        <item>4K-5K MMR</item>
+    </string-array>
+
+    <string-array name="list_mobile_legends">
+        <item>Warrior-Elite</item>
+        <item>Elite-Master</item>
+        <item>Master-Grandmaster</item>
+        <item>Grandmaster-Epic</item>
+        <item>Epic-Legends</item>
+    </string-array>
+
+    <string-array name="list_aov">
+        <item>Bronze-Silver</item>
+        <item>Silver-Gold</item>
+        <item>Gold-Platinum</item>
+        <item>Platinum-Diamond</item>
+        <item>Diamond-Conqueror</item>
+    </string-array>
+
+    <string-array name="list_dota">
+        <item>MMR 0K-1K</item>
+        <item>MMR 1K-2K</item>
+        <item>MMR 2K-3K</item>
+        <item>MMR 3K-4K</item>
+        <item>MMR 4K-5K</item>
+    </string-array>
+</resources>
